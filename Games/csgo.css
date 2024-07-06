@@ -1,0 +1,7 @@
+#csgo_heading{font-family:bungee;text-align:center;font-size:100px;color: azure;}
+#all{background-image:url(../Images/csgo_background.jpg) ;}
+
+#csgo_heading{border:1px solid rgb(147, 64, 64)}
+#p1{text-align: left;border:1px solid white;padding:6px;margin-right:800px;}
+#p2{text-align: left;border:1px solid white;padding:6px;margin-right:700px;}
+#csgo_graph{border:1px solid whitesmoke;margin-left:700px; ;}
